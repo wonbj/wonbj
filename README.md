@@ -1,3 +1,3 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<!-- 상단 헤더 이미지 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Backend%20Developer&fontSize=70&fontAlign=50&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlign=50&descAlignY=60)
+
