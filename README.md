@@ -30,4 +30,4 @@
   → GPT API 병렬 호출 & 세마포어 적용, 사용자 성향 기반 추천 결과 제공
 
 ## 📫 Contact
-- ✉️ Email: your.email@example.com
+- ✉️ Email: wonbj777@gmail.com
