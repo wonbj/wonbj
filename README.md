@@ -23,10 +23,10 @@
 - 실제 사용자 경험을 고려한 API 설계 & 구현
 
 ## 📌 Projects
-- 🔗 [**FMS** - 공공 API 기반 축제 정보 서비스](https://github.com/your-id/fms)  
+- 🔗 [**FMS** - 공공 API 기반 축제 정보 서비스](https://github.com/wonbj/fms)  
   → 한국관광공사의 오픈 API 기반 전국 축제 정보를 조회, 검색/필터 기능 및 관리자 기능까지 구현한 웹 기반 정보 제공 서비스
 
-- 🔗 [**애니팅** - GPT 기반 반려동물 추천 서비스](https://github.com/your-id/anithing)  
+- 🔗 [**애니팅** - GPT 기반 반려동물 추천 서비스](https://github.com/geolyun/2025-capstone-aniting)
   → GPT API를 활용하여, 사용자의 성향을 질문/응답을 통해 파악하고, GPT와 AI 추천 알고리즘을 통해 가장 적합한 반려동물을 추천하는 서비스
   
 ## 📫 Contact
