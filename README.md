@@ -24,10 +24,10 @@
 
 ## 📌 Projects
 - 🔗 [**FMS** - 공공 API 기반 축제 정보 서비스](https://github.com/your-id/fms)  
-  → 다중 배열 형태의 JSON 응답을 분석하여 가공 저장, 검색/필터 기능 구현
+  → 한국관광공사의 오픈 API 기반 전국 축제 정보를 조회, 검색/필터 기능 및 관리자 기능까지 구현한 웹 기반 정보 제공 서비스
 
 - 🔗 [**애니팅** - GPT 기반 반려동물 추천 서비스](https://github.com/your-id/anithing)  
-  → GPT API 병렬 호출 & 세마포어 적용, 사용자 성향 기반 추천 결과 제공
-
+  → GPT API를 활용하여, 사용자의 성향을 질문/응답을 통해 파악하고, GPT와 AI 추천 알고리즘을 통해 가장 적합한 반려동물을 추천하는 서비스
+  
 ## 📫 Contact
 - ✉️ Email: wonbj777@gmail.com
