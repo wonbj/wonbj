@@ -1,69 +1,33 @@
-<!-- 상단 헤더 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:a8edea&height=280&section=header&text=Welcome%20to%20my%20GitHub&fontSize=65)
 
-<!-- 내용 부분 -->
-<h3 align="center">✨ Tech Stack ✨</h3>
+## 👋 About Me
+안녕하세요!  
+**클린 코드**와 **문제 해결 능력**을 중요하게 생각하는 신입 백엔드 개발자 **원병준**입니다.
 
-<!-- Back-End -->
-<h4 align="center">⚙️ Back-End</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" />&nbsp
-</div>
+- Java & Spring Boot 기반 웹 서비스 개발 역량 보유
+- 공공 API, 외부 API 연동 및 JSON 데이터 처리 경험
+- GPT API 병렬 처리, 비동기 호출 제어 등 성능 중심의 로직 개선 경험
+- 실무와 유사한 프로젝트를 통해 백엔드 전반을 실습하며 성장 중입니다
 
-<br/>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<!-- Database -->
-<h4 align="center">🗄 Database</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-</div>
+## 🧪 Strength
+- 복잡한 API 응답 구조(JSON)를 분석하고 가공하는 능력
+- 예외 상황과 장애에 대비한 구조 고민
+- 실제 사용자 경험을 고려한 API 설계 & 구현
 
-<br/>
+## 📌 Projects
+- 🔗 [**FMS** - 공공 API 기반 축제 정보 서비스](https://github.com/your-id/fms)  
+  → 다중 배열 형태의 JSON 응답을 분석하여 가공 저장, 검색/필터 기능 구현
 
-<!-- Front-End -->
-<h4 align="center">🎨 Front-End</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
-</div>
+- 🔗 [**애니팅** - GPT 기반 반려동물 추천 서비스](https://github.com/your-id/anithing)  
+  → GPT API 병렬 호출 & 세마포어 적용, 사용자 성향 기반 추천 결과 제공
 
-<br/>
-
-<!-- Language -->
-<h4 align="center">💻 Language</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-</div>
-
-<br/>
-
-<!-- Tools -->
-<h4 align="center">🛠 Tools</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-</div>
-
-<br/>
-
-<!-- Version Control -->
-<h4 align="center">🔧 SCM</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
-
+## 📫 Contact
+- ✉️ Email: your.email@example.com
